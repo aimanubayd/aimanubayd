@@ -9,6 +9,10 @@
 
 ---
 
+<p>
+  <img src="https://raw.githubusercontent.com/mdaimanW3/mdaimanW3/main/github.gif" width="800" alt="description" />
+</p>
+
 ### About
 
 I research how EVM & DeFi protocols fail — tracing exploit paths from broken assumptions in protocol logic, economics, and trust boundaries. My approach combines manual security research with AI-powered tooling, and extends into building AI agents for autonomous web3 security analysis.
