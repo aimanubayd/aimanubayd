@@ -1,5 +1,5 @@
 <h1>Hey, I'm Aiman 👋</h1>
-<p><strong>Smart Contract Auditor & Security Researcher | AI Agent Security</p>
+<p><strong>Smart Contract Auditor & Security Researcher | AI Agent Security & Engineering</p>
 
 [![Aimans Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![Aimans YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/)
@@ -16,7 +16,7 @@
 
 ### About
 
-I research how EVM & DeFi protocols fail — tracing exploit paths from broken assumptions in protocol logic, economics, and trust boundaries. My approach combines manual security research with AI-powered tooling, and extends into building AI agents for autonomous web3 security analysis.
+I research how EVM & DeFi protocols fail — tracing exploit paths from broken assumptions in protocol logic, economics, and trust boundaries. My approach combines manual security research with fuzzing, invariant testing, and formal verification, backed by AI-powered tooling, and extends into building AI agents for autonomous web3 security analysis.
 
 ---
 
