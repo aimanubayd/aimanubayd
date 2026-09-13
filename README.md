@@ -7,11 +7,12 @@
 [![Aimans Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 [![Aimans StackOverflow](https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/)
 
----
 
 <p>
   <img src="https://raw.githubusercontent.com/mdaimanW3/mdaimanW3/main/github.gif" width="800" alt="description" />
 </p>
+
+---
 
 ### About
 
