@@ -29,7 +29,7 @@ I research how EVM & DeFi protocols fail — tracing exploit paths from broken a
 ## Research
 
 **Smart Contract Audits** — security reviews, exploit PoCs, and fuzz/invariant suites across DeFi protocols, AMMs, and token contracts.
-→ [View Audit Research](YOUR_AUDIT_REPOSITORY_URL)
+→ [View Audit Research](https://github.com/aimanubayd/audit-reports)
 
 **Invariant & Stateful Fuzzing** — handler-based stateful fuzzing to surface vulnerabilities unit tests miss.
 → [Explore Fuzzing Research](YOUR_FUZZING_REPOSITORY_URL)
