@@ -12,24 +12,21 @@
   <img src="https://raw.githubusercontent.com/mdaimanW3/mdaimanW3/main/github.gif" width="800" alt="description" />
 </p>
 
----
 
-### About
+## About
 
 I research how EVM & DeFi protocols fail — tracing exploit paths from broken assumptions in protocol logic, economics, and trust boundaries. My approach combines manual security research with fuzzing, invariant testing, and formal verification, backed by AI-powered tooling, and extends into building AI agents for autonomous web3 security analysis.
 
----
 
-### Toolkit
+## Toolkit
 
 **Security:** `Solidity` `Foundry` `Slither` `Aderyn` `Echidna` `Halmos`
 
 **AI Engnineering:** `Python` `LangGraph` `Claude API` `RAG`
 
 
----
 
-### Research
+## Research
 
 **Smart Contract Audits** — security reviews, exploit PoCs, and fuzz/invariant suites across DeFi protocols, AMMs, and token contracts.
 → [View Audit Research](YOUR_AUDIT_REPOSITORY_URL)
