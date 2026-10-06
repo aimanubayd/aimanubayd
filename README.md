@@ -20,7 +20,7 @@ I research how EVM & DeFi protocols fail — tracing exploit paths from broken a
 
 ## Toolkit
 
-**Security:** `Solidity` `Foundry` `Slither` `Aderyn` `Echidna` `Halmos`
+**Security:** `Solidity` `Foundry` `Slither` `Aderyn` `Echidna` `Halmos` `Certora`
 
 **AI Engnineering:** `Python` `LangGraph` `Claude API` `RAG`
 
