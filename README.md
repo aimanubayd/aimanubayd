@@ -1,5 +1,5 @@
 <h1>Hey, I'm Aiman 👋</h1>
-<p><strong>Smart Contract Security Researcher | EVM & DeFi Exploit Research | Formal Verification | AI Security Agent Engineering</p>
+<p><strong>Smart Contract Security Researcher & Auditor | EVM & DeFi Exploit Research | Formal Verification | AI Security Agents</p>
 
 [![Aimans Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aimanubayd)
 [![Aimans YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/)
@@ -15,10 +15,11 @@
 
 ## About
 
-Hey, I am Aiman a smart contract auditor and security researcher focused on EVM and DeFi protocols — finding the logic flaws, economic exploits, and broken assumptions that don't hold under adversarial conditions.
-My approach combines manual audits, fuzzing, invariant testing, and formal verification, backed by AI-powered tooling. I'm also building AI agents for autonomous smart contract security analysis.
+Hey, I’m Aiman, a smart contract auditor and security researcher focused on EVM and DeFi protocols. I find the logic flaws, economic exploits, and broken assumptions that fail under adversarial conditions.
 
-Hands-on audit experience across DeFi protocols, AMMs, Lending & Oracle Exploits, with a growing focus on formal verification and EVM internals.
+My approach combines manual review with invariant-driven fuzzing and formal verification, backed by AI-powered tooling. I’m also building AI agents for autonomous smart contract security analysis.
+
+Hands-on audit experience across AMMs, flash loan protocols, and bridges, covering oracle manipulation, access control, and accounting flaws, with a growing focus on formal verification and EVM internals.
 
 Open to audit engagements, security research collaborations, and conversations about AI-driven security tooling.
 
