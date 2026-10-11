@@ -1,5 +1,5 @@
 <h1>Hey, I'm Aiman 👋</h1>
-<p><strong>Smart Contract Auditor & Security Researcher | AI Agent Security & Engineering</p>
+<p><strong>Smart Contract Security Researcher | EVM & DeFi Exploit Research | Formal Verification | AI Security Agent Engineering</p>
 
 [![Aimans Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aimanubayd)
 [![Aimans YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/)
@@ -15,12 +15,16 @@
 
 ## About
 
-I research how EVM & DeFi protocols fail — tracing exploit paths from broken assumptions in protocol logic, economics, and trust boundaries. My approach combines manual security research with fuzzing, invariant testing, and formal verification, backed by AI-powered tooling, and extends into building AI agents for autonomous web3 security analysis.
+Hey, I am Aiman a smart contract auditor and security researcher focused on EVM and DeFi protocols — finding the logic flaws, economic exploits, and broken assumptions that don't hold under adversarial conditions.
+My approach combines manual audits, fuzzing, invariant testing, and formal verification, backed by AI-powered tooling. I'm also building AI agents for autonomous smart contract security analysis.
 
+Hands-on audit experience across DeFi protocols, AMMs, Lending & Oracle Exploits, with a growing focus on formal verification and EVM internals.
+
+Open to audit engagements, security research collaborations, and conversations about AI-driven security tooling.
 
 ## Toolkit
 
-**Security:** `Solidity` `Foundry` `Slither` `Aderyn` `Echidna` `Halmos` `Certora`
+**Security:** `Solidity` `Foundry` `Slither` `Aderyn` `Echidna` `Yul` `Halmos` `Certora`
 
 **AI Engnineering:** `Python` `LangGraph` `Claude API` `RAG`
 
