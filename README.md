@@ -24,7 +24,7 @@ Open to audit engagements, security research collaborations, and conversations a
 
 ## Toolkit
 
-**Security:** `Solidity` `Foundry` `Slither` `Echidna` `Yul` `Halmos`
+**Security:** `Solidity` `Foundry` `Slither` `Echidna` `Yul` `Halmos` `Certora`
 
 **AI Engnineering:** `Python` `LangGraph` `Claude API` `RAG`
 
